@@ -336,7 +336,7 @@ main {}
 }
 .browseAll {
     padding: 15px 39px;
-    border-radius: 1px solid;
+    border-radius: 1px;
     border-color: #F26376;
     cursor: pointer;
     background: none;
